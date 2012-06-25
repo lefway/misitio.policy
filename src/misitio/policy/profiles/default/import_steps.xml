@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<import-steps>
+
+  <import-step id="misitio.policy.various"
+               version="20120620-01"
+               handler="misitio.policy.setuphandlers.setupVarious"
+               title="Miscellaneous import steps">
+    Various import steps that are not handled by GS import/export
+    handlers.
+  </import-step>
+
+</import-steps>
